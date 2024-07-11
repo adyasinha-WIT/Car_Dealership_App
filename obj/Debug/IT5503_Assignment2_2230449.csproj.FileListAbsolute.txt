@@ -1,0 +1,16 @@
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.AssemblyReference.cache
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.SuggestedBindingRedirects.cache
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.CoreCompileInputs.cache
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.exe.config
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.exe
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.pdb
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.exe
+C:\Users\adya.sinha\source\repos\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.pdb
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.exe.config
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.exe
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\bin\Debug\IT5503_Assignment2_2230449.pdb
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.AssemblyReference.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.SuggestedBindingRedirects.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.csproj.CoreCompileInputs.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.exe
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\IT5503_Assignment2_2230449\IT5503_Assignment2_2230449\obj\Debug\IT5503_Assignment2_2230449.pdb
